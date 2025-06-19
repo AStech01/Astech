@@ -40,7 +40,7 @@
 
 ## 🌐 Portfolio & Projects
 
-🔗 **Portfolio**: [sabithportfolio](https://github.com/AStech01/sabithportfolio.git)  
+🔗 **Portfolio**: [sabithportfolio](https://sabithportfolio-cw9h14y3i-astech01s-projects.vercel.app) 
 🧠 **Featured Project**: [Astech App](https://github.com/AStech01/Astech.git)
 
 ---
